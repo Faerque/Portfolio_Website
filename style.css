@@ -61,3 +61,17 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+#full_stack{
+    border-left: 7px solid;
+    border-image: linear-gradient (lightSalmon,Tomato);
+    border-image-slice: 1;
+}
+#baby_web{
+    border-left: 7px solid;
+    border-image: linear-gradient (blue,cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
