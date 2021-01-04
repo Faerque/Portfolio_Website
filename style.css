@@ -11,7 +11,7 @@ h2{
 p{
     color: dimgray;
 }
-.name_highlight{
+.blue_highlight{
     color:cornflowerblue;
 }
 .half-width{
@@ -20,8 +20,25 @@ p{
     margin-left: left 5%;
     padding-left: 2%;
 }
+.half-width-single-experience{
+    width:40%;
+    float: left;
+    margin-left: left 5%;
+    padding-left: 2%;
+}
+.half-width-single-experience{
+      box-shadow: 10px 10px 40px gray ;
+      border-radius: 5px;
+      height: 80%;
+}
+.experience-area{
+    background-image: url("Images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
 .half-width img{
-   width: 100%;
+   width: 50%;
 }
 .Top_banner{
     background-image: url("images/top-banner.png");
