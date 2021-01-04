@@ -6,7 +6,7 @@ h1{
     font-size: 50px;
 }
 .name_highlight{
-    color:cornflowerblue
+    color:cornflowerblue;
 }
 .half-width{
     width:40%;
@@ -23,4 +23,12 @@ h1{
 }
 section{
    height:500px;
+}
+.Link_Button{
+    text-decoration: none;
+    background-image: linear-gradient( lightSalmon,Tomato);
+    padding: 5px 10px;
+    border-radius: 5px;
+    color:cornsilk;
+    font-weight: 700;
 }
